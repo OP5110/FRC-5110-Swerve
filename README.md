@@ -1,7 +1,9 @@
 ## Swerve Drive/Project Information
 FRC 5110s swerve project. Bassed off of YAGSL and Team 4741's code.
 
-Base Libary - https://github.com/BroncBotz3481/YAGSL/tree/main
+Base Libary - https://github.com/Ryu-123-dev/Swerve-Drive/tree/main
+
+Original Libary - https://github.com/BroncBotz3481/YAGSL/tree/main
 
 Used Exaple Project - https://github.com/BroncBotz3481/YAGSL-Example
 
