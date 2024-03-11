@@ -1,0 +1,49 @@
+{
+  "HALProvider": {
+    "Other Devices": {
+      "SPARK MAX [2]": {
+        "header": {
+          "open": false
+        }
+      },
+      "SPARK MAX [5]": {
+        "header": {
+          "open": false
+        }
+      },
+      "Talon FX (v6)[2]/Rotor Sensor": {
+        "header": {
+          "open": false
+        }
+      },
+      "Talon FX (v6)[51]": {
+        "header": {
+          "open": false
+        }
+      },
+      "Talon FX[50]": {
+        "header": {
+          "open": false
+        }
+      },
+      "Talon FX[51]/Integrated Sensor": {
+        "header": {
+          "open": false
+        }
+      },
+      "Talon FX[52]/Integrated Sensor": {
+        "header": {
+          "open": false
+        }
+      },
+      "Talon FX[8]/Integrated Sensor": {
+        "header": {
+          "open": false
+        }
+      }
+    }
+  },
+  "NetworkTables Info": {
+    "visible": true
+  }
+}
